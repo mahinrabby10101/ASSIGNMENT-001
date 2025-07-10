@@ -1,0 +1,147 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+
+  .raleway-font{
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+   
+    font-style: normal;
+  }
+
+
+  .bg-img{
+    background-image: url(../Assets/Hero-bg.png);
+    height: 698px;
+    width: 1440px;
+    margin: 0 auto;
+    text-align: center;
+
+  }
+
+
+  /* nav style */
+   
+  header{
+    max-width: 1440px;
+    height: auto;
+  }
+
+  .loogoo{
+    color: #4E47FF;
+    font-size: 32px;
+    font-weight: 800;
+    
+}
+
+nav{
+    display: flex;
+ justify-content: space-between;
+ margin: 0px 200px;
+ padding-top: 50px;
+
+align-items: center;
+margin-bottom: 158px;
+
+  }
+  nav ul li{
+    list-style: none;
+   
+  
+  }
+  nav li a{
+    text-decoration: none;
+    font-size: 16px;
+  }
+
+
+   /* header style  */
+
+   header div h2{
+    font-size: 65px;
+    color: #252432;
+   
+  }
+   h2 , h5 {
+    margin: 37px 0; 
+   }
+
+
+
+
+/* same style  */
+
+  .blue-btn{
+    /* background-color: #4E47FF; 
+    font-weight: bold;
+    color: white;
+    padding: 12px 36px;
+    font-size: 16px; */
+    background-color:  #4E47FF;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 12px;
+    
+  }
+
+
+
+
+  /* section two  */
+  .sec-two{
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 100px 40px;
+        gap: 80px;
+
+     
+
+  }
+   .hthree{
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    display: flex ;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 300px;
+  
+   
+    
+
+
+   }
+
+   .hthree-text{
+    font-size: 24px;
+    font-weight: normal;
+    color: #252432;
+
+   }
+   /* .sec-two , .hthree{
+    margin: 23px 0;
+   } */
+.web-flow-2002{
+    border-radius: 48px;
+
+}
+ 
+header , main{
+    margin-bottom: 116px;
+}
+
+.sec-two-content{
+    margin-bottom: 23px; 
+}
