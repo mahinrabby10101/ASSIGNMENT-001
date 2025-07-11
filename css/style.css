@@ -38,6 +38,10 @@
     font-weight: 800;
     
 }
+/* .download-png{
+  background-image: url(../icons/download.png);
+
+} */
 
 nav{
     display: flex;
@@ -334,3 +338,79 @@ header , main{
 
 
   /* section six  */
+  .sec-six{
+    margin: 0;
+    background-color: #f4f6fe;
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+align-items: center;
+justify-content: center;
+padding: 92px;
+  }
+
+  .sec-six{
+    /* padding: 92px; */
+   
+}
+
+.sec-six input[type="text"] , .sec-six input[type="email"] , .sec-six textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+}
+.section-title{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+    
+}
+
+.box-side{
+  font-weight: normal;
+}
+
+/* footer style  */
+.footer{
+  margin: 0;
+  background: #ffffff;
+}
+
+.footer {
+  text-align: center;
+  padding: 60px 20px;
+  background-color: #fff;
+}
+
+.footer .logo {
+  font-size: 48px;
+  font-weight: bold;
+  color: #ff4081;
+  margin-bottom: 20px;
+}
+
+.footer .description {
+  max-width: 600px;
+  margin: 0 auto 30px;
+  color: #888;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.footer nav {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  font-size: 16px;
+  color: #666;
+}
+
+.footer nav a {
+  text-decoration: none;
+ 
+}
