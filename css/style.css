@@ -212,6 +212,7 @@ header , main{
 .sec-four{
     
     background: #f6f8ff;
+   
     margin-top: 137px;
     padding: 137px;
     text-align: center;
@@ -283,5 +284,53 @@ header , main{
 
   /* section five  */
 
+  .sec-five {
+    margin: 0;
+    background-color: #f4f6fe;
+  }
   
+  .sec-five{
+    display: flex;
+    justify-content: center;
+    
+    padding: 137px
+  }
   
+  .content {
+    background-color: white;
+    padding: 40px 20px;
+    border-radius: 16px;
+    max-width: 900px;
+    width: 100%;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  }
+  
+  .content h2 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #000000;
+  }
+  
+  .content p {
+    color: #555;
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+ 
+  
+  .focus-image {
+    max-width: 100%;
+    border-radius: 24px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  }
+  
+  .shinchan{
+    max-width: 100%;
+    border-radius: 24px;
+
+  }
+
+
+  /* section six  */
