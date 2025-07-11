@@ -126,7 +126,7 @@ margin-bottom: 158px;
 
    .hthree-text{
     font-size: 24px;
-    font-weight: normal;
+    font-weight: 300;
     color: #252432;
 
    }
@@ -145,3 +145,63 @@ header , main{
 .sec-two-content{
     margin-bottom: 23px; 
 }
+
+
+/* section Three  */
+
+.sec-three{
+    background-color: #f5f8ff;
+    width: 1140px;
+    height: 306px;
+
+  
+    background-color: #e8eaff; 
+    border-radius: 16px;
+    margin: auto;
+}
+
+
+  
+  .bg-color-seccc {
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px;
+  }
+  
+  .user-join {
+    background-color: #e8eaff; 
+    padding: 40px;
+    border-radius: 16px;
+    text-align: center;
+    max-width:  1140px;
+    width: 100%;
+  }
+  
+  .user-join h2 {
+    margin-bottom: 50px;
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+  }
+  
+  .user-react {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+  
+  .activity h3 {
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    margin: 0;
+  }
+  
+  .activity p {
+    margin-top: 8px;
+    font-size: 20px;
+    font-weight: normal;
+    color: #000000;
+  }
+  
